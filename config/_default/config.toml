@@ -1,4 +1,4 @@
 baseURL = "https://bigfacemaster.github.io/"
 languageCode = "zh-cn"
 title = "🤡大花脸🤡"
-theme = "DoIt"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
